@@ -1,4 +1,4 @@
-hello my name is developer1
-i live in mumbai.
-i am an engineer
+hello my name is dev1
+i live in delhi.
+i am an doctor
 showing merge conflict example
