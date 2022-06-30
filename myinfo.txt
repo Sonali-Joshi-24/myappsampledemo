@@ -2,3 +2,4 @@ hello my name is dev1
 i live in delhi.
 i am an doctor
 showing merge conflict example
+editing to test fetch command
