@@ -3,3 +3,4 @@ i live in delhi.
 i am an doctor
 showing merge conflict example
 editing to test fetch command
+editing the file to test pull command
